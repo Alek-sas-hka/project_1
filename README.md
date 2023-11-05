@@ -5,11 +5,11 @@
 	>Установите необходимые для запуска библиотеки с помощью команды: \
 	>pip install -r requirements.txt 
 	>>Для запуска необходимо выполнить:
-        >>>Для Linux:
-	>>>>python3 main.py 
-	>>>
-	>>>Для Windows 10:
-	>>>>python main.py
+        >>Для Linux:
+	>>>python3 main.py 
+	>>
+	>>Для Windows 10:
+	>>>python main.py
 2. Как пользоваться:
 	>В папке Examples пишите текст для шифровки/дешифровки в файл Input.txt, \
 	>По надобности пишите ключ шифрования в файл Keys.txt \
