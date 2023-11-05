@@ -3,7 +3,7 @@
 	>Склонируйте репозиторий с помощью команды:
         >git clone https://github.com/Alek-sas-hka/project_1.git \
 	>Установите необходимые для запуска библиотеки с помощью команды: \
-	>pip install -r requirements.txt 
+	>pip install -r requirements.txt \
 	>>Для запуска необходимо выполнить:
         >>Для Linux:
 	>>>python3 main.py 
